@@ -7,6 +7,7 @@ Real-time ETL pipeline to visualize insider trading data. I use this project to 
 * Apache Kakfka (PyKafka) 
 * AWS Redshift
 * Apache Airflow
+* Tableau
 
 ## Overview
 
@@ -17,3 +18,7 @@ Real-time ETL pipeline to visualize insider trading data. I use this project to 
 ### Transform & Load
 
  - `Kafka consumer` receives the data from the `kakfa topic`, transformed the data into relational format and queries it into an `AWS Redshift` data warehouse
+ 
+ ### Tableau 
+
+- `Tableau dashboard` is connected to `AWS Redshift`, the dashboard is updated real-time according to new entried added to Redshift
