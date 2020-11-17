@@ -18,6 +18,8 @@ Real-time automated ETL pipeline to visualize insider trading data. I use this p
 
 <img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/kafka.png" width="650" height="300">
 
+<img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/kafka.gif" width="650" height="300">
+
 ### Transform & Load
 
  - `Kafka consumer` receives the data from the `kakfa topic`, transforms the data into relational format and queries it into an `AWS Redshift` data warehouse
