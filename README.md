@@ -12,4 +12,4 @@ Real-time ETL pipeline to visualize insider trading data. I use this project to 
 
 ### Extract Live Data
 
-- `Selenium` is used to scrape data from multiple web sources and   `kafka poducer`  sends the data to a `kafka topic`
+- `Selenium` is used to scrape data from multiple web sources and   `kafka poducer`  sends new data to a `kafka topic`
