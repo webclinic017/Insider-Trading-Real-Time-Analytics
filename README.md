@@ -23,10 +23,10 @@ Real-time automated ETL pipeline to visualize insider trading data. I use this p
  
  
 
-<img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/aws.png" width="650" height="300">
+<img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/aws.png" width="950" height="450">
 
 
-<img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/awsdata.png" width="650" height="300">
+<img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/awsdata.png" width="950" height="450">
  
  ### Live Tableau Dashboard
 
