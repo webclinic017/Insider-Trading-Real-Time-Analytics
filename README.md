@@ -19,7 +19,7 @@ Real-time automated ETL pipeline to visualize insider trading data. I use this p
 
 ### Transform & Load
 
- - `Kafka consumer` receives the data from the `kakfa topic`, transformed the data into relational format and queries it into an `AWS Redshift` data warehouse
+ - `Kafka consumer` receives the data from the `kakfa topic`, transforms the data into relational format and queries it into an `AWS Redshift` data warehouse
  
  
 
