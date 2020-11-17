@@ -10,4 +10,4 @@ Real-time ETL pipeline to visualize insider trading data. I use this project to 
 
 ## Overview
 
-### Extact
+### Extract
