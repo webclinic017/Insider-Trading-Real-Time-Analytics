@@ -32,7 +32,7 @@ connection = psycopg2.connect(
     database="dev",
     port='5439',
     user="awsuser",
-    password="621517Qwerty")
+    password="******")
 
 cursor=connection.cursor()
 
