@@ -15,6 +15,8 @@ Real-time ETL pipeline to visualize insider trading data. I use this project to 
 
 - `Selenium` is used to scrape incoming data from multiple web sources, data is formatted into `JSON` where `kafka poducer` subsequently sends them to a `kafka topic`
 
+<img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/kafka.png" width="500" height="500">
+
 ### Transform & Load
 
  - `Kafka consumer` receives the data from the `kakfa topic`, transformed the data into relational format and queries it into an `AWS Redshift` data warehouse
