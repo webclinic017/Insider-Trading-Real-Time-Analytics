@@ -7,3 +7,7 @@ Real-time ETL pipeline to visualize insider trading data. I use this project to 
 * Apache Kakfka (PyKafka) 
 * AWS Redshift
 * Apache Airflow
+
+## Overview
+
+### Extact
