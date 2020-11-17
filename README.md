@@ -25,4 +25,4 @@ Real-time ETL pipeline to visualize insider trading data. I use this project to 
 
 - `Tableau dashboard` is connected to `AWS Redshift`, the dashboard is updated real-time according to new entried added to Redshift
 
-<img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/dashboard.png" width="650" height="300">
+<img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/dashboard.png" width="850" height="400">
