@@ -21,6 +21,13 @@ Real-time automated ETL pipeline to visualize insider trading data. I use this p
 
  - `Kafka consumer` receives the data from the `kakfa topic`, transformed the data into relational format and queries it into an `AWS Redshift` data warehouse
  
+ 
+
+<img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/aws.png" width="650" height="300">
+
+
+<img src="https://github.com/AymenRumi/Insider-Trading-Real-Time-Analytics/blob/main/awsdata.png" width="650" height="300">
+ 
  ### Live Tableau Dashboard
 
 - `Tableau dashboard` is connected to `AWS Redshift`, the dashboard is updated real-time according to new entried added to Redshift
